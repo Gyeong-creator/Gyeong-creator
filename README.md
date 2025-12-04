@@ -53,9 +53,7 @@
 
 ### 📊 GitHub 활동 내역
 
-#### 🏆 GitHub Stats 배지 활용
-
-GitHub의 다양한 통계 자료와 기여도를 시각적으로 보여줍니다.
+#### 🏆 GitHub Stats & Profile Trophy
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyeong-creator&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Gyeong-creator&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -73,18 +71,8 @@ GitHub의 다양한 통계 자료와 기여도를 시각적으로 보여줍니�
 
 ### 🗺️ My Development Roadmap
 
-앞으로 학습하고 싶은 기술을 정리하여 성장 의지를 보여줍니다.
-
 | 구분 | 학습 목표 (Goal) | 주요 기술 (Tech) | 상태 (Status) |
 | :---: | :---: | :---: | :---: |
-| **게임 개발** | 3D 게임 엔진 이해 및 활용 | **Unity/Unreal Engine**, C# | 🏃‍♂️ In Progress |
+| **게임 개발** | 3D 게임 엔진 이해 및 활용 | **Unity/Unreal Engine**, C# | 📚 To Study |
 | **정보 보안** | 웹 취약점 분석 및 방어 | OWASP Top 10, **Kali Linux**, WAF | 📚 To Study |
 | **백엔드** | 서비스 확장성을 고려한 서버 구조 학습 | **Node.js** 또는 **Django**, Docker | 📚 To Study |
-
----
-
-### ⚙️ CI/CD Status
-
-빌드 및 테스트 자동화 상태를 보여줍니다.
-
-[![Build Status](https://github.com/Gyeong-creator/-5-/actions/workflows/main.yml/badge.svg)](https://github.com/Gyeong-creator/-5-/actions/workflows/main.yml)
